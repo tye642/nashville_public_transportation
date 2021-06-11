@@ -14,4 +14,4 @@
 Nashville is a growing city and with that comes stress on our infrastructure. Is there a need to improve and upgrade our public transportation? How does Nashville compare to other cities in similar size and trajectory? Is it worth it? These are some of the questions I will try to answer.
 
 ### **Motivation**   
-I moved to Nashville in 2016, and have watched it grow quickly. As it has grown, traffic has increased and commutes have gotten longer. 
+I moved to Nashville in 2016, and have watched it grow quickly. As it has grown, traffic has increased and commutes have gotten longer.
