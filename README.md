@@ -25,11 +25,14 @@ I moved to Nashville in 2016, and have watched it grow quickly. As more people m
 * Looking at cities that are larger, what is in store for us down the road?
 
 ### **Known Issues and Challenges**   
+* The Census data need cleaning because the city names are not just the city, but may include other names. ie. "Nashville-Davidson metropolitan government.."
+  * I want to join this to my other datasets and will need a clean column to join to.
+*
 
 ### **Data Sources and Tools**  
 * Census data: this dataset could be used to find cities similar to Nashville. Would be useful to ‘join’ this to other datasets to see what their public transportation system looks like.
-    * https://www.census.gov/programs-surveys/popest/data/data-sets.html
-* Public Transportation Dataset: includes ridership, operating costs/revenue, time series back to 1991, safety data.
-    * https://www.transit.dot.gov/ntd/ntd-data?field_product_type_target_id=All&year=all&combine=
+    * https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-cities-and-towns.html
+* Public Transportation Dataset: includes ridership, operating costs/revenue, time series, safety data.
+    * https://www.transit.dot.gov/ntd/data-product/monthly-module-raw-data-release
 * Traffic data: this dataset shows traffic counts from various locations throughout the US. Also has data for traffic by year.
-    * https://www.arcgis.com/
+    * https://www.arcgis.com/apps/webappviewer/index.html?id=075987cdae37474b88fa400d65681354
