@@ -25,9 +25,10 @@ I moved to Nashville in 2016, and have watched it grow quickly. As more people m
 * Looking at cities that are larger, what is in store for us down the road?
 
 ### **Known Issues and Challenges**   
-* The Census data need cleaning because the city names are not just the city, but may include other names. ie. "Nashville-Davidson metropolitan government.."
+* The Census data needs cleaning because the city names are not just the city, but may include other names. ie. "Nashville-Davidson metropolitan government.."
   * I want to join this to my other datasets and will need a clean column to join to.
-*
+* Due to time constraints, I couldn't clean my 'city' column to a point to join my 2 datasets. Instead, I joined them in a more manual fashion.
+* Since the my data was from several different sources, things didn't always line up. As an example, the public transportation dataset includes their own estimate on the population in the city. Those numbers do not always line up with the census numbers.
 
 ### **Data Sources and Tools**  
 * Census data: this dataset could be used to find cities similar to Nashville. Would be useful to ‘join’ this to other datasets to see what their public transportation system looks like.
@@ -36,3 +37,6 @@ I moved to Nashville in 2016, and have watched it grow quickly. As more people m
     * https://www.transit.dot.gov/ntd/data-product/monthly-module-raw-data-release
 * Traffic data: this dataset shows traffic counts from various locations throughout the US. Also has data for traffic by year.
     * https://www.arcgis.com/apps/webappviewer/index.html?id=075987cdae37474b88fa400d65681354
+* Python (Jupyter Notebook)
+* Excel
+* Tableau
