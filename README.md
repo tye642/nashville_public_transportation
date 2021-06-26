@@ -7,9 +7,6 @@
 - [Known Issues and Challenges](#Known-Issues-and-Challenges)
 - [Data Sources and Tools](#Data-Sources-and-Tools)
 - [Links to Tableau Public and Video](#Links-to-Tableau-Public-and-Video)
-- [Schedule](#Schedule)
-- [Approach Outline](#Approach-Outline)
-- [Acknowledgements](#Acknowledgements)
 
 Nashville is a growing city and with that comes stress on our infrastructure. Is there a need to improve and upgrade our public transportation? How does Nashville compare to other cities in similar size and trajectory? Is it worth it? These are some of the questions I will try to answer.
 
@@ -43,4 +40,3 @@ I moved to Nashville in 2016, and have watched it grow quickly. As more people m
 
 ### **Links to Tableau Public and Video**
 * https://public.tableau.com/app/profile/teng.ye/viz/Public_Transportation_Ridership/Dashboard1
- 
