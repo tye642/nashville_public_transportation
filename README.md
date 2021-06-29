@@ -31,12 +31,12 @@ I moved to Nashville in 2016, and have watched it grow quickly. As more people m
 * Census data: this dataset could be used to find cities similar to Nashville. Would be useful to ‘join’ this to other datasets to see what their public transportation system looks like.
     * https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-cities-and-towns.html
 * Public Transportation Dataset: includes ridership, operating costs/revenue, time series, safety data.
-    * https://www.transit.dot.gov/ntd/data-product/monthly-module-raw-data-release
-* Traffic data: this dataset shows traffic counts from various locations throughout the US. Also has data for traffic by year.
-    * https://www.arcgis.com/apps/webappviewer/index.html?id=075987cdae37474b88fa400d65681354
-* Python (Jupyter Notebook)
-* Excel
-* Tableau
+    * https://www.transit.dot.gov/ntd/data-product/monthly-module-raw-data-release (ridership)
+    * https://www.transit.dot.gov/ntd/data-product/2019-data-tables ("Metric Static" contains operating costs and fare revenue)
+* Tools
+  * Python (Jupyter Notebook)
+  * Excel
+  * Tableau
 
 ### **Links to Tableau Public and Video**
-* https://public.tableau.com/app/profile/teng.ye/viz/Public_Transportation_Ridership/Dashboard1
+* https://public.tableau.com/app/profile/teng.ye/viz/Public_Transportation_Ridership/Story1
